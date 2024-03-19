@@ -1,4 +1,4 @@
-package dev.stephen.kafka.config;
+package dev.stephen.kafka.config.kafkaConfig;
 
 import org.apache.kafka.clients.admin.NewTopic;
 import org.springframework.context.annotation.Bean;
